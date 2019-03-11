@@ -1,9 +1,11 @@
-baseURL = "http://glen.c.falk.rbind.io/"
+baseURL = "http://glenfalk.rbind.io/"
 title   = "Glen C. Falk"
 
 DefaultContentLanguage = "en"
 
 theme = "hugo-theme-hello-friend-ng"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 pygmentsCodefences = true
 pygmentsUseClasses = true
