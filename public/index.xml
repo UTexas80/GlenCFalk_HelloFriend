@@ -33,6 +33,34 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.
+Highly poised, client-focused, results-driven problem-solver and Information Technology Professional with extensive experience and success in the education, insurance, and utilities industries. Demonstrated ability to successfully manage multiple priorities and responsibilities while collaborating effectively with management, clients, and across functional groups to develop state-of-the-art technology solutions and identify opportunities to increase efficiency and improve profitability.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>AsideGlen Falk
+customer-centric, results-driven problem-solver who canclearly communicate technical materials andmanaging multple data/analytic products while thrivingin a dynamic environment
+Contact Info email linkedIn github +1 706-705-2775ExpertiseR programming language
+tidyverse, R Markdown, Shiny
+CSS, HTML, JavaScript, JSON
+Business Intelligence
+Data Analytics, Mining &amp;amp; Reporting
+DisclaimerThis resume was made with the R package pagedown.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -41,17 +69,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2 ## 1st Qu.:12.0 1st Qu.: 26 ## Median :15.0 Median : 36 ## Mean :15.4 Mean : 43 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
