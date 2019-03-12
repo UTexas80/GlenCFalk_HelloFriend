@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
     url        = "posts/"
 
   [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "resume/"
+    identifier = "experience"
+    name       = "Experience"
+    url        = "experience/"
     

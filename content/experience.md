@@ -1,105 +1,83 @@
 ---
 aliases:
-- resume-us
-- resume-hugo
-- resume
+- experience-us
+- experience-hugo
+- experience
 author:
   name: Glen C. Falk
 date: "2019-03-09"
-title: Resume
-output:
-  pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+title: Experience
 ---
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+---
 
-### Data Engineer Consultant
+#### Solutions Engineer Consultant - CapVisor Associates LLC
 
-CapVisor Associates LLC
-
-Remote
-
-2019 - 2018
-
-::: concise
 *Responsibilities:*  
+
 - Execute and troubleshoot existing R client reporting platform.  
 - Develop new PowerBI reporting capabilities/enhancements.  
 - Create troubleshooting and development documentation.  
 - Provide remote support and finance/portfolio expertise.  
-*Key Achievements:*   
-- Devloped processes to circumvent existing data validation issues.  
+
+*Key Achievements:*  
+
+- Developed processes to circumvent existing data validation issues.  
 - Function as a key contributor to CapVisor's conversion to PowerBI.  
-:::
-### Research Analyst
 
-The University of Georgia
+---
 
-Athens, Georgia
+#### Research Analyst - The University of Georgia 
 
-2019 - 2016
-
-::: concise
 *Responsibilities:*  
+
 - involved in the analytical & technical aspects of financial aid research.  
 - Design research projects and supervise the collection/analysis of data.  
 - Interpret findings and organize conclusions in a suitable format.  
-*Key Achievements:*   
-- Devloped a NLP solution that utilizes ML to text mine candidate profiles and quantitatively evaluate the best matches for job postings.  
+  
+*Key Achievements:*  
+
+- Developed a NLP solution that utilizes ML to text mine candidate profiles and quantitatively evaluate the best matches for job postings.  
 - Created an R based reporting database that integrates Argos, Banner, PL/SQL and Power Bi to help track scholarship initiatives.  
-:::
 
-### Data Management Specialist
+---
 
-The University of Georgia
+#### Data Management Specialist - The University of Georgia
 
-Athens, Georgia
-
-2016 - 2010
-
-::: concise
 *Responsibilities:*  
-- Collect, maintain, analyze and distribute data related to UGA facilities.   
+
+- Collect, maintain, analyze and distribute data related to UGA facilities.  
 - Assist in the preparation of special analyses, ad hoc studies and reports.  
-*Key Achievements:*   
+  
+*Key Achievements:*  
+
 - Devised an MSAccess interface that helped improve data integrity by 25%.  
-:::
 
-### Technical Product Manager
+---
 
-Oil Price Information Service
+#### Technical Product Manager - Oil Price Information Service
 
-Wall, NJ
-
-2010 - 2005
-
-::: concise
 *Responsibilities:*  
+
 - Monitor and assess current data collection methods.  
 - Formulate process improvements to improve operational effectiveness.  
+
 *Key Achievements:*  
+
 - Streamlined reporting workflow resulting in a 75% runtime reduction.  
-:::
 
-### Team Lead-Systems Consulting
+---
 
-Prudential Financial
+#### Team Lead Systems Consulting - Prudential Financial
 
-Holmdel, NJ
-
-2005 - 1998
-
-::: concise
 *Responsibilities:*  
+
 - Performed technical studies and evaluated business area requirements.  
 - Provided high-level specialized technical support and consultation.  
-:::
 
-*****
-Education {data-icon=graduation-cap data-concise=true}
+---
+
+Education
 --------------------------------------------------------------------------------
 
 ### The University of Georgia
