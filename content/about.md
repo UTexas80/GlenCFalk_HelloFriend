@@ -10,9 +10,9 @@ title: About
 ---
 
 
-customer-centric, results-driven problem-solver who can clearly communicate technical materials and managing multiple data/analytic products while thriving in a dynamic environment
+customer-centric, results-driven problem-solver who clearly communicates technical materials and manages multiple data/analytic products while thriving in a dynamic environment
 
-#### Expertise  
+# Expertise  
 
 --------------------------------------------------------------------------------
 
@@ -22,6 +22,6 @@ customer-centric, results-driven problem-solver who can clearly communicate tech
 
 - CSS, HTML, JavaScript, JSON  
 
-- Business Intelligence 
+- Business Intelligence  
 
 - Data Analytics, Mining & Reporting 

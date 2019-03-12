@@ -2,12 +2,12 @@
 aliases:
 - /blog/migrate-from-jekyll/
 author:
-  name: Hugo Authors
-date: "2014-03-10"
-linktitle: Migrating from Jekyll
+  name: Glen C. Falk
+date: "2019-01-10"
+linktitle: Shiny Admissions Dashboard
 series:
 - Hugo 101
-title: Migrate to Hugo from Jekyll
+title: Shiny Admissions Dashboard
 type:
 - post
 - posts

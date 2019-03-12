@@ -1,11 +1,11 @@
 ---
 author:
   name: Michael Henderson
-date: "2014-09-28"
-linktitle: Creating a New Theme
+date: "2018-09-28"
+linktitle: Fintech Quant Portfolio Analysis
 series:
 - Hugo 101
-title: Creating a New Theme
+title: Fintech Quant Portfolio Analysis
 type:
 - post
 - posts

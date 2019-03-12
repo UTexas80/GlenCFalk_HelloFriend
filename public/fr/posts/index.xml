@@ -955,7 +955,7 @@ i'm speechless
     &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/post/premier-post/&quot;&gt;first&lt;/a&gt;&lt;/h1&gt;
 &lt;script&gt;document.write('&lt;script src=&quot;http://'
         + (location.host || 'localhost').split(':')[0]
-        + ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
+		+ ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
         + 'script&gt;')&lt;/script&gt;&lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
@@ -1002,8 +1002,8 @@ i'm speechless
 
 <pre><code>$ vi config.toml
 [permalinks]
-    page = &quot;/:title/&quot;
-    about = &quot;/:filename/&quot;
+	page = &quot;/:title/&quot;
+	about = &quot;/:filename/&quot;
 </code></pre>
 
 <p>Générez le site web et vérifiez que cela ne fonctionne pas. Hugo laisse le slug ou l&rsquo;URL outrepasser l&rsquo;option des liens permanents dans le fichier de configuration. Commentez le slug dans content/about.md, puis générez le site web pour qu&rsquo;elle soit générée au bon endroit.</p>
@@ -1022,7 +1022,7 @@ i'm speechless
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-    &lt;title&gt;{{ .Title }}&lt;/title&gt;
+	&lt;title&gt;{{ .Title }}&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
 :wq

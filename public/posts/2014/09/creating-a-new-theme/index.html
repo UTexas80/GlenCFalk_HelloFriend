@@ -90,7 +90,7 @@ We&rsquo;ll start with creating a new site with a very basic template."/>
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="/about/">About</a></li><li><a href="/experience/">Experience</a></li><li><a href="/posts/">Posts</a></li>
+    <ul class="menu__inner"><li><a href="/about/">About</a></li><li><a href="/education/">Education</a></li><li><a href="/experience/">Experience</a></li><li><a href="/posts/">Projects</a></li>
     </ul>
 </nav>
 
@@ -1036,7 +1036,7 @@ i'm speechless
     &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/post/first-post/&quot;&gt;first&lt;/a&gt;&lt;/h1&gt;
 &lt;script&gt;document.write('&lt;script src=&quot;http://'
         + (location.host || 'localhost').split(':')[0]
-        + ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
+		+ ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
         + 'script&gt;')&lt;/script&gt;&lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
@@ -1081,8 +1081,8 @@ i'm speechless
 
 <pre><code>$ vi config.toml
 [permalinks]
-    page = &quot;/:title/&quot;
-    about = &quot;/:filename/&quot;
+	page = &quot;/:title/&quot;
+	about = &quot;/:filename/&quot;
 </code></pre>
 
 <p>Generate the web site and verify that this didn&rsquo;t work. Hugo lets &ldquo;slug&rdquo; or &ldquo;URL&rdquo; override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.</p>
@@ -1101,7 +1101,7 @@ i'm speechless
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-    &lt;title&gt;{{ .Title }}&lt;/title&gt;
+	&lt;title&gt;{{ .Title }}&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
 :wq
@@ -1251,11 +1251,18 @@ $ vi themes/zafta/layouts/_default/single.html
 
                 <div class="pagination__buttons">
                     
+                        <span class="button previous">
+                            <a href="/posts/2019/01/shiny-admissions-dashboard/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">Shiny Admissions Dashboard</span>
+                            </a>
+                        </span>
+                    
 
                     
                         <span class="button next">
-                            <a href="/posts/2014/03/migrate-to-hugo-from-jekyll/">
-                                <span class="button__text">Migrate to Hugo from Jekyll</span>
+                            <a href="/posts/2014/04/hugo-template-primer/">
+                                <span class="button__text">(Hu)go Template Primer</span>
                                 <span class="button__icon">→</span>
                             </a>
                         </span>
@@ -1303,7 +1310,7 @@ $ vi themes/zafta/layouts/_default/single.html
 
 
 
-<script type="text/javascript" src="/js/bundle.39e9a47febcec1a326d3c4a9b36fc4401073cb0b91b97aad920bbb5456da655960cb5c5cc3f1a0a82c27e21d4113ad35f884c26bfd76350814cb0551eb9797b9.js" integrity="sha512-Oemkf&#43;vOwaMm08Sps2/EQBBzywuRuXqtkgu7VFbaZVlgy1xcw/GgqCwn4h1BE601&#43;ITCa/12NQgUywVR65eXuQ=="></script>
+<script type="text/javascript" src="/js/bundle.4b80fbbfab88198dcef181b034822e60a3e68b1c128d1dc05392a32943a18ec2f866fbcd9ce31dcf84134397161647ad605ea5c25ecf12e5fcf9d28b47e64bb5.js" integrity="sha512-S4D7v6uIGY3O8YGwNIIuYKPmixwSjR3AU5KjKUOhjsL4ZvvNnOMdz4QTQ5cWFketYF6lwl7PEuX8&#43;dKLR&#43;ZLtQ=="></script>
 
 
 
