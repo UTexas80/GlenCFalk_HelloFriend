@@ -15,9 +15,13 @@ title: Education
 
 *Concentration:*  Full Stack Development
 
+---
+
 #### Monmouth University - M.B.A. - West Long Branch, N.J.
 
 *Concentration:*  Management Information Systems
+
+---
 
 #### The University of Texas - B.B.A. - Austin, Texas
 
