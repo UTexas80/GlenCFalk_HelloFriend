@@ -5,7 +5,7 @@ This is [Glen C. Falk's](https://glenfalk.rbind.io/) personal website. It is cre
 ## Getting Started
 
 
- and [rbind.io](https://github.com/rbind).
+ 
 
 
 ### Prerequisites
@@ -61,6 +61,7 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [**blogdown**](https://github.com/rstudio/blogdown)- R package
+* [**rbind.io**](https://github.com/rbind).
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
