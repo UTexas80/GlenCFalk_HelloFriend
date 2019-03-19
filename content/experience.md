@@ -37,7 +37,8 @@ title: Experience
   
 *Key Achievements:*  
 
-- Developed a NLP solution that utilizes ML to text mine candidate profiles and quantitatively evaluate the best matches for job postings.  
+- Created a [Shiny dashboard](http://rpubs.com/UTexas80/MDHE) to analyze state institution enrollment trends.
+- Developed a [NLP hiring solution](http://rpubs.com/UTexas80/NLPML) that utilizes ML to text mine candidate profiles and quantitatively evaluate the best matches for job postings.  
 - Created an R based reporting database that integrates Argos, Banner, PL/SQL and Power Bi to help track scholarship initiatives.  
 
 ---
