@@ -97,6 +97,11 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/glen-falk"
 
+  [[params.social]]
+    name = "stack-overflow"
+    url  = "https://stackoverflow.com/users/9039447/utexas80"
+
+
 [languages]
   [languages.en]
     subtitle  = "Solutions Engineer"
