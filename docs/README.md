@@ -23,7 +23,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE) 
 
 ## Acknowledgments
 
-* [Eric Scott](https://github.com/Aariq) for the [Making a website in RStudio](http://www.ericrscott.com/2017/12/19/making-a-website-in-rstudio/) post. I wouldn't been able to create this website without Eric's assistance.
+* Thanks to [Eric Scott](https://github.com/Aariq) for the [Making a website in RStudio](http://www.ericrscott.com/2017/12/19/making-a-website-in-rstudio/) post. I wouldn't been able to create this website without Eric's assistance.
 * [Nan Xiao](https://nanx.me/) - Thank you for your patience in getting me up and running in rbind.
 * [Djordje Atlialp](https://atlialp.com/about/) - Thank you for the Hello Friend NG Hugo Theme. It was exactly what I was looking for.
 * Thanks to [blogown](https://github.com/rstudio/blogdown) package from Yihui.
