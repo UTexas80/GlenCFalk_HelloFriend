@@ -4,37 +4,27 @@
   
   <url>
     <loc>/posts/2019/03/r-website/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2019/01/readability/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/2019/01/shiny-admissions-dashboard/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/2019/01/shiny-admissions-dashboard/"
-                />
   </url>
   
   <url>
-    <loc>/posts/2018/09/fintech-quant-portfolio-analysis/</loc>
-    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/2018/09/fintech-quant-portfolio-analysis/"
-                />
+    <loc>/posts/2018/03/client-reporting-platform/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2017/05/powerbi-portfolio-analysis/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,46 +43,11 @@
   </url>
   
   <url>
-    <loc>/resume/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/2018/04/getting-started-with-hugo/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/2018/04/getting-started-with-hugo/"
-                />
-  </url>
-  
-  <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/2014/04/hugo-template-primer/"
-                />
-  </url>
-  
-  <url>
     <loc>/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -105,17 +60,29 @@
                 hreflang="en"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/business-intelligence/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/development/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fintech/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -130,20 +97,38 @@
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/korpus/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ml/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/performance-analytics/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,24 +139,56 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <loc>/tags/portfolio/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/powerbi/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/projecttemplate/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/qdap/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/quanteda/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/quantmod/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -182,14 +199,62 @@
   </url>
   
   <url>
+    <loc>/tags/rdcomclient/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/readability/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/reporters/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rjava/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rmarkdown/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rpubs/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -204,14 +269,20 @@
   </url>
   
   <url>
-    <loc>/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/ttr/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/web/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wordcloud/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
