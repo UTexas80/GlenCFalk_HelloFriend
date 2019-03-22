@@ -1,6 +1,6 @@
 # Glen C. Falk's Website
 
-This is [Glen C. Falk's](https://glenfalk.rbind.io/) personal website. It is created with [Hugo](https://gohugo.io) and [blogdown](https://bookdown.org/yihui/blogdown/), with the theme of *[hello-friend-ng](https://themes.gohugo.io/hugo-theme-hello-friend-ng/).*  The source file of the website is hosted on [Github](https://github.com/likanzhan) and is served on [netlify](https://app.netlify.com).
+This is [Glen C. Falk's](https://glenfalk.rbind.io/) personal website. It is created with [Hugo](https://gohugo.io) and [blogdown](https://bookdown.org/yihui/blogdown/), with the theme of *[hello-friend-ng](https://themes.gohugo.io/hugo-theme-hello-friend-ng/).*  The source file of the website is hosted on [Github](https://github.com/rbind/GlenFalk) and is served on [netlify](https://app.netlify.com).
 
 ## Built With
 
