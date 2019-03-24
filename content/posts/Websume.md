@@ -13,7 +13,7 @@ tags:
 - r
 - resume
 - rmarkdown
-title: pagedown c
+title: pagedown cv
 type:
 - post
 - posts
