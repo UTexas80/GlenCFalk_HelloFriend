@@ -13,14 +13,14 @@ tags:
 - r
 - resume
 - rmarkdown
-title: pagedown cv
+title: pagedown c
 type:
 - post
 - posts
 weight: 10
 ---
 
-- Created a [Pagedown Resume](https://github.com/rbind/GlenFalk/docs/resume/GlenCFalkWebsume.pdf) for my personal CV.
+- Created a [Pagedown Resume](https://github.com/rbind/GlenFalk/blob/master/docs/Resume/GlenCFalkWebsume.pdf) for my personal CV.
 - This ongoing process create paged HTML documents for printing from R Markdown.
 - The source file of the website is hosted on [Github](https://github.com/UTexas80/GlenCFalkResume).
 
