@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Cv</title>
+      <link>/tags/cv/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>/tags/development/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
@@ -84,20 +93,11 @@
     </item>
     
     <item>
-      <title>Performance Analytics</title>
-      <link>/tags/performance-analytics/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <title>Pagedown</title>
+      <link>/tags/pagedown/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/performance-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
+      <guid>/tags/pagedown/</guid>
       <description></description>
     </item>
     
