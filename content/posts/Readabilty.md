@@ -20,11 +20,11 @@ tags:
 title: Readability
 type:
 - post
-- posts
+- posts**
 weight: 10
 ---
 
--	Developed an ‘R’ NLP hiring solution that utilizes ML to text mine applicant profiles and quantitatively evaluate the best matches for job postings.
+-	Developed an [**‘R’ NLP hiring solution**](http://rpubs.com/UTexas80/NLPML) that utilizes ML to text mine applicant profiles and quantitatively evaluate the best matches for job postings.
 
 ## Built With
 

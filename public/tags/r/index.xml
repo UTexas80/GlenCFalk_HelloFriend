@@ -23,6 +23,16 @@ Built With  blogdown- R package. Netlify - Static web host. rbind.io - Community
     </item>
     
     <item>
+      <title>pagedown cv</title>
+      <link>/posts/2019/02/pagedown-cv/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/02/pagedown-cv/</guid>
+      <description>Created a Pagedown Resume for my personal CV. This ongoing process create paged HTML documents for printing from R Markdown. The source file of the website is hosted on Github.  Built With:  pagedown R - R programming language. R Markdown - R Markdown.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Thanks to:  Yihue Xie and Romain Lesur for the pagedown: Creating Beautiful PDFs with R Markdown + CSS + Your Web Browser presentation.</description>
+    </item>
+    
+    <item>
       <title>Readability</title>
       <link>/posts/2019/01/readability/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>

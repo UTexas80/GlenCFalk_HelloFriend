@@ -50,6 +50,47 @@ Built With  blogdown- R package. Netlify - Static web host. rbind.io - Community
         </item>
         
         <item>
+            <title>pagedown cv</title>
+            <link>/posts/2019/02/pagedown-cv/</link>
+            <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/02/pagedown-cv/</guid>
+            <description>Created a Pagedown Resume for my personal CV. This ongoing process create paged HTML documents for printing from R Markdown. The source file of the website is hosted on Github.  Built With:  pagedown R - R programming language. R Markdown - R Markdown.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Thanks to:  Yihue Xie and Romain Lesur for the pagedown: Creating Beautiful PDFs with R Markdown + CSS + Your Web Browser presentation.</description>
+            <content type="html"><![CDATA[
+
+<ul>
+<li>Created a <a href="https://github.com/rbind/GlenFalk/blob/master/docs/Resume/GlenCFalkWebsume.pdf" target="_blank">Pagedown Resume</a> for my personal CV.</li>
+<li>This ongoing process create paged HTML documents for printing from R Markdown.</li>
+<li>The source file of the website is hosted on <a href="https://github.com/UTexas80/GlenCFalkResume" target="_blank">Github</a>.</li>
+</ul>
+
+<h2 id="built-with">Built With:</h2>
+
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/pagedown/index.html" target="_blank"><strong>pagedown</strong></a></li>
+<li><a href="https://www.r-project.org/" target="_blank"><strong>R</strong></a> - R programming language.</li>
+<li><a href="https://rmarkdown.rstudio.com" target="_blank"><strong>R Markdown</strong></a> - R Markdown.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li>Thanks to:
+
+<ul>
+<li><a href="https://yihui.name/" target="_blank"><strong>Yihue Xie</strong></a> and <a href="https://github.com/RLesur" target="_blank"><strong>Romain Lesur</strong></a> for the <a href="https://slides.yihui.name/2019-rstudio-conf-pagedown.html#1" target="_blank">pagedown: Creating Beautiful PDFs with R Markdown + CSS + Your Web Browser</a> presentation.</li>
+<li><a href="http://svmiller.com/blog/2016/03/svm-r-markdown-cv/" target="_blank"><strong>Steven V. Miller</strong></a> for inspiration.</li>
+</ul></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
             <title>Readability</title>
             <link>/posts/2019/01/readability/</link>
             <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
@@ -59,7 +100,7 @@ Built With  blogdown- R package. Netlify - Static web host. rbind.io - Community
             <content type="html"><![CDATA[
 
 <ul>
-<li>Developed an ‘R’ NLP hiring solution that utilizes ML to text mine applicant profiles and quantitatively evaluate the best matches for job postings.</li>
+<li>Developed an <a href="http://rpubs.com/UTexas80/NLPML" target="_blank"><strong>‘R’ NLP hiring solution</strong></a> that utilizes ML to text mine applicant profiles and quantitatively evaluate the best matches for job postings.</li>
 </ul>
 
 <h2 id="built-with">Built With</h2>
