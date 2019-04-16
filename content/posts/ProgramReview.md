@@ -4,7 +4,7 @@ aliases:
 author:
   name: Glen C. Falk
 date: "2015-05-07"
-linktitle: program_review
+linktitle: Program Review
 series:
 - Hugo 101
 tags:
