@@ -1,4 +1,4 @@
-baseURL = "https://glenfalk.rbind.io/"
+baseURL = "https://glenfalk.rbind.io/"                                           # Solutions Engineer
 title   = "Glen C. Falk"
 
 DefaultContentLanguage = "en"
